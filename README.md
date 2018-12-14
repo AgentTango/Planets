@@ -1,6 +1,6 @@
 # planets
 
-A new Flutter application, implementing the planets tuts
+A new Flutter application, implementing the planets tutorial.
 
 ## Getting Started
 
